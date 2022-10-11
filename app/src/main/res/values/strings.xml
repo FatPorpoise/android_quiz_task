@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question1">Czy w Armageddons Blade jest 10 zamków?</string>
+    <string name="question2">Czy maksymalna ilość bohaterów to 7?</string>
+    <string name="question3">Czy Bastion to zamek leśny?</string>
+    <string name="question4">Czy L to największa mapa</string>
+    <string name="question5">Czy zamek zwiększa przychód złota?</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="correct_answer">Dobrze</string>
+    <string name="incorrect_answer">Źle</string>
+</resources>
